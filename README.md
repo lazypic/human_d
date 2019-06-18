@@ -1,4 +1,4 @@
-<img src="https://github.com/lazypic/human_d/blob/master/imgs/humandLogo.png?raw=true" width=25% >
+<img src="https://github.com/lazypic/human_d/blob/master/imgs/humandLogo.jpg?raw=true" width=25% >
 
 <br>트랜스 휴머니즘( transhumanism)을 바탕으로 트랜스 휴머니스트들에게 스캔 된 디지털 신체를 영구적으로 보존하고, 관리 제공하는 서비스에 관한 것입니다.<br>
 
