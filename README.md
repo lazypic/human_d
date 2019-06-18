@@ -1,6 +1,6 @@
 <img src="https://github.com/lazypic/human_d/blob/master/imgs/humandLogo.png?raw=true" width=25% >
-<br><br><br>트랜스 휴머니즘( transhumanism)을 바탕으로 트랜스 휴머니스트들에게 스캔 된 디지털 신체를 영구적으로 보존하고, 관리 제공하는 서비스에 관한 것입니다.<br><br>
 
+<br>트랜스 휴머니즘( transhumanism)을 바탕으로 트랜스 휴머니스트들에게 스캔 된 디지털 신체를 영구적으로 보존하고, 관리 제공하는 서비스에 관한 것입니다.<br>
 
 > 인간향상(human enhancement) : 과학기술을 이용하여 인간의 건강수명 연장이나 노화의 제거를 비롯하여 지적· 정서적· 신체적· 심리적 능력의 개선
 혹은 강화를 꾀하는 것
