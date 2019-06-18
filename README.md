@@ -51,3 +51,5 @@
   [트랜스휴머니즘](https://namu.mirror.wiki/m/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%9C%B4%EB%A8%B8%EB%8B%88%EC%A6%98)
   
   [트랜스휴머니즘과 인간향상의 생명정치학](http://s-space.snu.ac.kr/bitstream/10371/135060/1/4.%20%EC%8B%A0%EC%83%81%EA%B7%9C.pdf)
+  
+  [IEET](https://ieet.org/)
