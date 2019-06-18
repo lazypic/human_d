@@ -29,7 +29,7 @@
 `` 출처: The Institute for Ethics and Emerging Technologies(IEET)의 홈페이지에 분류된 내용을 기초로, 거기에
 대응하는 주요 인물이나 그룹을 필자가 분류한 것이다. https://ieet.org/ 참조. ``
 
-<img src="https://github.com/lazypic/human_d/blob/master/imgs/ieetChart.JPG?raw=true" height=25%>
+<img src="https://github.com/lazypic/human_d/blob/master/imgs/ieetChart.JPG?raw=true" width=60% >
  IEET 홈페이지를 참조로 작성 _ 신상규 : 트랜스휴머니즘과 인간향상의 생명정치학 中
 
 
