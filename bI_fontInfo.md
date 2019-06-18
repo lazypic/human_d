@@ -1,1 +1,1 @@
-github.com/zesstype/Black-Han-Sans
+http://www.s-core.co.kr/who-we-are/font/
