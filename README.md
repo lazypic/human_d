@@ -8,9 +8,9 @@
 > 트랜스휴머니즘 : 노화를 제거하고, 인간의 지성적· 육체적· 심리적 능력을 향상시키는 기술을 개발하고 확대함으로써 인간 조건을 근본적으로 향상시키는 것
 의 가능성과 그 바람직함을 긍정하는 지적· 문화적 운동
 
-[인간향상의 생명정치적 지형](https://github.com/lazypic/human_d#%EC%9D%B8%EA%B0%84%ED%96%A5%EC%83%81%EC%9D%98-%EC%83%9D%EB%AA%85%EC%A0%95%EC%B9%98%EC%A0%81-%EC%A7%80%ED%98%95)
+#### [인간향상의 생명정치적 지형](https://github.com/lazypic/human_d#%EC%9D%B8%EA%B0%84%ED%96%A5%EC%83%81%EC%9D%98-%EC%83%9D%EB%AA%85%EC%A0%95%EC%B9%98%EC%A0%81-%EC%A7%80%ED%98%95)
 
-[비판 요소](https://github.com/lazypic/human_d#%EB%B9%84%ED%8C%90-%EC%9A%94%EC%86%8C)
+#### [비판 요소](https://github.com/lazypic/human_d#%EB%B9%84%ED%8C%90-%EC%9A%94%EC%86%8C)
 
 ### 구상중
 
